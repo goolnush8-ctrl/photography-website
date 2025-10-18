@@ -3,7 +3,6 @@
 A modern and responsive photography portfolio website built with **HTML** and **CSS**.  
 This project showcases a clean and minimal design for photographers who want to display their works online.
 
-🌐 **Live Demo:** [View Website](https://goolnush.github.io/photography-website/)
 
 ---
 
